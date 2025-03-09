@@ -35,7 +35,7 @@ Para jugar, abre el archivo index.html en tu navegador.
 
 Si deseas el código, puedes clonarlo desde GitHub:
 
-git clone https://github.com/tuusuario/amigo-secreto.git
+git clone https://github.com/ypaterninag/challenge-juego-amigo-secreto.git
 
 Tecnologías Utilizadas
 - HTML5 para la estructura de la página.
