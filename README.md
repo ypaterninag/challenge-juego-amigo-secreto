@@ -32,11 +32,12 @@ Nuevo juego:
 Reinicia el juego para limpiar la lista y volver a iniciar un nuevo juego.
 
 Acceso al Proyecto
-Para jugar, abre el archivo index.html en tu navegador.
+Para jugar, por favor ingresa en el siguiente link https://ypaterninag.github.io/challenge-juego-amigo-secreto/.
 
 Si deseas el código, puedes clonarlo desde GitHub:
 
-git clone https://github.com/ypaterninag/challenge-juego-amigo-secreto.git
+git clone https://github.com/ypaterninag/challenge-juego-amigo-secreto.git 
+descarga la carpeta en tu PC, descomprímela, abre el archivo index.html en tu navegador y listo a jugar con nuestra app del amigo secreto.
 
 Tecnologías Utilizadas
 - HTML5 para la estructura de la página.
